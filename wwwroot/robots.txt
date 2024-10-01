@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://www.ennistowing.com/sitemap.xml
+Sitemap: https://www.ennistowing.com/geositemap.xml
